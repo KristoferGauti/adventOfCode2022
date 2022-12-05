@@ -58,13 +58,4 @@ def main():
         sum_of_the_badges += alphabet_upper_lower.index(badge) + 1
     print(sum_of_the_badges)
 
-
-            
-
-        
-        
-
-        
-
-
 main()
